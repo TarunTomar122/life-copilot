@@ -6,7 +6,7 @@ A very simple and functional copilot for life :)
 
 - Manage different groups of windows for different use cases (WIP) 
 
-# 🤓 Insatllation
+# 🤓 Installation
 
 - (WIP)
 
